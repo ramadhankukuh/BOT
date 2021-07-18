@@ -200,7 +200,7 @@ waktuafk = '-'
 
 nopref = false
 multi = true
-prefa = '-'
+prefa = '#'
 public = false
 second = '626.82'
 alasanafk = 'Ntahlah'
@@ -300,7 +300,7 @@ sᴏᴀʟɴʏᴀ ᴍᴀʟᴇs ᴀᴡᴋᴡᴋᴡᴋᴡᴋ
 ]=====> SETTING DI SINI KEBAWAH BIARIN AJG <=====[
 */
 const ownerNumber = [`${nomorowner}@s.whatsapp.net`]
-const ownerBot = '6285157072227@c.us'
+const ownerBot = '12816245470@c.us'
 const BarBarKey = 'tempel sini' // APIKEY BELI DI IKY
 const VhtearKey = 'YT_FERNAZER' // beli di 083141727903
 const XteamKey = 'marvellganz' // APIKEY XTEAM BELI SENDIRI:V
